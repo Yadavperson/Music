@@ -1,7 +1,7 @@
-<h1 align="center">🎵 Istkhar Music🎵</h1>
+<h1 align="center">🎵 Satyam Yadav 🎵</h1>
 
 <p align="center">
-  <img src="https://files.catbox.moe/k1gf6k.jpg" alt="Istkhar Music Logo" width="600" height="150">
+  <img src="https://files.catbox.moe/d4z1dl.jpg" alt="Istkhar Music Logo" width="600" height="150">
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <a href="https://Istkharhost.in/">
+  <a href="https://t.me/AuraVisual">
     <img src="https://img.shields.io/badge/Cheapest%20Web%20Hosting-1A237E?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cheapest Web Hosting">
   </a>
   <a href="https://t.me/Istkhar_Syn">
@@ -54,7 +54,7 @@
 <h2 align="center">🚀 One-Click Deploy to Heroku</h2>
 
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/TEAM-ISTKHAR/IstkharMusic">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/Yadavperson/Music">
     <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" />
   </a>
 </p>
@@ -88,9 +88,7 @@
    ```
 4. **Installing Node**
    ```bash
-   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash && source ~/.bashrc && nvm install v18
-   ```
-5. **Clone the Repository**
+   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash && sourcehttps://github.com/Yadavperson/Music one the Repository**
    ```bash
    git clone https://github.com/TEAM-ISTKHAR/IstkharMusic && cd IstkharMusic
    ```
@@ -135,19 +133,19 @@ The Istkhar Music Bot offers a range of commands to enhance your music listening
 | /stop                 | Stop the bot and clear the queue.           |
 | /queue                | Display the list of songs in the queue.     |
 
-For a full list of commands, use /help in [telegram](https://t.me/IstkharumusicBot).
+For a full list of commands, use /help in [telegram](https://t.me/AuraSongBot).
 
 ---
 
 ### 🔄 Updates & Support
 
-Stay updated with the latest features and improvements to Istkhar Music Bot:
+Stay updated with the latest features and improvements to Aura music Bot:
 
 <p align="center">
-  <a href="https://telegram.me/Arishfa_Update">
+  <a href="https://t.me/HeavenChatGroup">
     <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
   </a>
-  <a href="https://telegram.me/ll_ISTKHAR_ll">
+  <a href="https://t.me/AuraVisual">
     <img src="https://img.shields.io/badge/Join-Update%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
@@ -176,6 +174,6 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 
 ### 🙏 Acknowledgements
 
-Thanks to all the contributors, supporters, and users of the Istkhar Music Bot. Your feedback and support keep us going!
-- [Istkhar Music Bot](https://t.me/KittuXrobot) and [Istkhar Music](https://github.com/TEAM-ISTKHAR/IstkharMusic) For their Source Codes.
+Thanks to all the contributors, supporters, and users of the Istkhar Music Bot. Your Satyam Yadav  and support keep us going!
+- [Aura Bots](https://t.me/AuraSongBot) and [Satyam Yadav](https://github.com/Yadavperson/Music) For their Source Codes.
 - for invaluable assistance in resolving the IP ban issue.
